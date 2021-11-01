@@ -7,6 +7,7 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 ### Resources
 
 * [AWS Certified Cloud Practitioner Exam Overview from AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+  * [AWS CP Slides](https://drive.google.com/drive/folders/1aWlpDJ_Z-UXizsmfNGR-lGUzXnTgMoq3?usp=sharing)   
 * [AWS Certified Solutions Architect Exam Overview from AWS](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Week 2:  AWS Certified Data Analytics & AWS Developer
