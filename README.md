@@ -16,10 +16,11 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 
 ### Resources
 
+* [AWS Certified Developer]
 * [AWS Certified Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
 
-## Week 3:  AWS Certified Machine Learning
 
+## Week 3:  AWS Certified Machine Learning
 
 ### Resources
 
