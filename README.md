@@ -25,3 +25,8 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 ### Resources
 
 * [AWS Certified Machine Learning Speciality](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
+
+## Global Resources
+
+* [AWS Python CDK Structure](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/)
