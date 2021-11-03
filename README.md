@@ -23,7 +23,8 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 
 #### Slides and Links
 * [AWS Certified Developer Exam Overview from AWS](https://aws.amazon.com/certification/certified-developer-associate/)
-* [AWS Certified Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
+  * [AWS Developer Certification Slides](https://drive.google.com/drive/folders/1f6Op27XfAW4LajwDFnZ42LHXUQ-gWV2X?usp=sharing) 
+* [AWS Certified Data Analytics Exam Overview from AWS](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
 
 #### Video Content
 * [AWS Certified Big Data - Specialty Complete Video Course and Practice Test Video Training](https://learning.oreilly.com/videos/aws-certified-big/9780135772324/)
@@ -37,7 +38,7 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 
 #### Slides and Links
 * [AWS Certified Machine Learning Speciality](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
- * [AWS ML Slides](https://drive.google.com/drive/folders/1lI9v1K0BWbhpbgi6Ri2EmHvbggrEWYpi?usp=sharing)
+  * [AWS ML Slides](https://drive.google.com/drive/folders/1lI9v1K0BWbhpbgi6Ri2EmHvbggrEWYpi?usp=sharing)
  
 #### Video Content
 
