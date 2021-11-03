@@ -15,10 +15,9 @@ A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications
 #### Video Content
 * [Watch AWS Certified Cloud Practitioner Video Course on O'Reilly (5 hours)](https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/)
 * [Watch AWS in One Hour on O'Reilly (35 min)](https://learning.oreilly.com/videos/aws-in-one/61092021VIDEOPAIMLL/)
-* [Watch AWS Solutions Architect Certification in One Hour]
+* [Watch AWS Solutions Architect Certification in One Hour](https://learning.oreilly.com/videos/aws-solutions-architect/61132021VIDEOPAIML/)
 
 ## Week 2:  AWS Certified Data Analytics & AWS Developer
-
 
 ### Resources
 
