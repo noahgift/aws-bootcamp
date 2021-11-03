@@ -1,5 +1,5 @@
 # zero-to-five-aws-bootcamp
-A Graduate Level Three Week Bootcamp on AWS. Go from ZERO to FIVE Certifications.
+A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certifications.
 
 ## Week 1:  AWS Certified Solutions Architect & Cloud Practicioner
 
