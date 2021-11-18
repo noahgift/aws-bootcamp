@@ -44,6 +44,8 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 
 * [AWS ML Certification in One Hour on O'Reilly](https://learning.oreilly.com/videos/aws-machine-learning/61232021VIDEOPAIML/)
 * [AWS Certified Machine Learning-Speciality on O'Reilly (5 hours)](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597/)
+* [AWS Sagemaker Autopilot from Zero](https://learning.oreilly.com/videos/aws-sagemaker-autopilot/60262021VIDEOPAIML/)
+* [Using AWS Sagemaker](https://learning.oreilly.com/videos/using-aws-sagemaker/11172021VIDEOPAIML/)
 
 ## Global Resources
 
