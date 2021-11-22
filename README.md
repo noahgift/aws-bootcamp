@@ -49,5 +49,6 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 
 ## Global Resources
 
+* [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
 * [AWS Python CDK Structure](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/)
 * [Diagramming CDK](https://github.com/pistazie/cdk-dia)
