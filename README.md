@@ -47,6 +47,11 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 * [AWS Sagemaker Autopilot from Zero](https://learning.oreilly.com/videos/aws-sagemaker-autopilot/60262021VIDEOPAIML/)
 * [Using AWS Sagemaker](https://learning.oreilly.com/videos/using-aws-sagemaker/11172021VIDEOPAIML/)
 
+## Week 4:  AWS Solutions Architect Pro
+### Resources
+#### Slides and Links
+#### Video Content
+
 ## Global Resources
 
 * [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
