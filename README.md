@@ -49,6 +49,11 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 
 ## Week 4:  AWS Solutions Architect Pro
 ### Resources
+
+* [Overview](https://aws.amazon.com/certification/certified-solutions-architect-professional)					
+* [Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)					
+* [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)					
+
 #### Slides and Links
 #### Video Content
 
