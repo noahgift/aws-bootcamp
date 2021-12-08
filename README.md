@@ -59,8 +59,8 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 
 ## 52 Weeks of AWS Podcast and Live Stream
 
-[Subscribe to Podcast](https://podcast.paiml.com)
-[Subscribe to Livestream](https://www.youtube.com/c/PragmaticAILabs)
+* [Subscribe to Podcast](https://podcast.paiml.com)
+* [Subscribe to Livestream](https://www.youtube.com/c/PragmaticAILabs)
 
 ### Episode 1:O'Reilly C# on AWS book overview
  
