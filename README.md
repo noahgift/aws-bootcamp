@@ -67,6 +67,13 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
  * [52 Weeks of AWS: Episode 1: O'Reilly C# on AWS book overview](https://podcast.paiml.com/episodes/52-weeks-of-aws-episode-1-oreilly-c-on-aws-book-overview)
  * [View on O'Reilly Video Livestream](https://learning.oreilly.com/videos/52-weeks-of/12072021VIDEOPAIML/)
 
+### Potential Topics
+
+#### IAC
+
+* [Constructs Dev](https://constructs.dev)
+* [AWS CDK V2](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+
 ## Global Resources
 
 * [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
