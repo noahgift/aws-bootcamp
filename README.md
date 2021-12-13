@@ -61,11 +61,16 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 
 * [Subscribe to Podcast](https://podcast.paiml.com)
 * [Subscribe to Livestream](https://www.youtube.com/c/PragmaticAILabs)
+* [Episode Notes](https://github.com/noahgift/aws-bootcamp/blob/main/episodes)
 
 ### Episode 1:O'Reilly C# on AWS book overview
  
  * [52 Weeks of AWS: Episode 1: O'Reilly C# on AWS book overview](https://podcast.paiml.com/episodes/52-weeks-of-aws-episode-1-oreilly-c-on-aws-book-overview)
  * [View on O'Reilly Video Livestream](https://learning.oreilly.com/videos/52-weeks-of/12072021VIDEOPAIML/)
+
+### Episode 2:  Reinvent Recap and Getting Started with AWS
+
+* [Notes on Episode 2](https://github.com/noahgift/aws-bootcamp/blob/main/episodes/episode2-dec14-2021.md)
 
 ### Potential Topics
 
