@@ -83,6 +83,7 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 
 ## Global Resources
 
+* [Notes for O'Reilly Book:  C# on AWS I am writing](https://github.com/noahgift/DotNet-AWS)
 * [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
 * [AWS Python CDK Structure](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/)
 * [Diagramming CDK](https://github.com/pistazie/cdk-dia)
