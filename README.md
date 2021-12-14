@@ -73,10 +73,13 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 ### Episode 2:  Reinvent Recap and Getting Started with AWS
 
 * Part 1:  [Cover Reinvent 2021 announcements](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/?nc2=h_rei_ht)
-* Talk about getting started:
- * AWS Free Tier
- * AWS Academy (for students)
- * [AWS Sagemaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/)
+* Part2: Talk about getting started:
+  * [AWS Free Tier](https://aws.amazon.com/free/)
+  * [AWS Academy (for students)](https://aws.amazon.com/training/awsacademy/)
+  * [AWS Sagemaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/)
+* Part 3:  Cloud development environments
+  * [AWS Cloudshell](https://aws.amazon.com/cloudshell/) Can run Bash, ZSH or Powershell
+  * [AWS Cloud9](https://aws.amazon.com/cloud9/) Supports many languages including Python and C#   
 * [Notes on Episode 2](https://github.com/noahgift/aws-bootcamp/blob/main/episodes/episode2-dec14-2021.md)
 
 ### Potential Topics
