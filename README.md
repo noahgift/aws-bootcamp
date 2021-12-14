@@ -72,6 +72,11 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 
 ### Episode 2:  Reinvent Recap and Getting Started with AWS
 
+* Part 1:  [Cover Reinvent 2021 announcements](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/?nc2=h_rei_ht)
+* Talk about getting started:
+ * AWS Free Tier
+ * AWS Academy (for students)
+ * [AWS Sagemaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/)
 * [Notes on Episode 2](https://github.com/noahgift/aws-bootcamp/blob/main/episodes/episode2-dec14-2021.md)
 
 ### Potential Topics
