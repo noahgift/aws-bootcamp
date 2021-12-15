@@ -81,6 +81,9 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
   * [AWS Cloudshell](https://aws.amazon.com/cloudshell/) Can run Bash, ZSH or Powershell
   * [AWS Cloud9](https://aws.amazon.com/cloud9/) Supports many languages including Python and C#   
 * [Notes on Episode 2](https://github.com/noahgift/aws-bootcamp/blob/main/episodes/episode2-dec14-2021.md)
+* [View Episode 2 on O'Reilly](https://learning.oreilly.com/videos/52-weeks-of/12142021VIDEOPAIML/)
+* [Listen to Episode2](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-2-reinvent-2021-and-getting-started-with-aws)
+
 
 ### Potential Topics
 
