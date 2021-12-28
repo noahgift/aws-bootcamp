@@ -84,6 +84,15 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * [View Episode 2 on O'Reilly](https://learning.oreilly.com/videos/52-weeks-of/12142021VIDEOPAIML/)
 * [Listen to Episode2](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-2-reinvent-2021-and-getting-started-with-aws)
 
+### Episode 3:  AWS CP Part 1
+
+### Episode 4:  AWS CP Part 2
+
+* Benchmarking:  https://github.com/noahgift/benchmarking-aws
+* History of AWS (AWS Shareholder Letter 2020):  https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
+* Visual Studio AWS Tool
+* Github Codespaces vscode tutorial:  https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixB-CSharp-Tutorial.md
+* AWS CP Part 2
 
 ### Potential Topics
 
