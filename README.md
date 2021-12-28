@@ -93,6 +93,7 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * Visual Studio AWS Tool
 * Github Codespaces vscode tutorial:  https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixB-CSharp-Tutorial.md
 * AWS CP Part 2
+* [Listen to episode 4](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-4-aws-cloud-practitioner-part-2)
 
 ### Potential Topics
 
