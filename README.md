@@ -99,3 +99,4 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * [AWS Python CDK Structure](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/)
 * [Diagramming CDK](https://github.com/pistazie/cdk-dia)
 * [Podcast 52 Weeks of AWS](https://podcast.paiml.com)
+* [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
