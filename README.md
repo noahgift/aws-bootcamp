@@ -114,3 +114,4 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * [Diagramming CDK](https://github.com/pistazie/cdk-dia)
 * [Podcast 52 Weeks of AWS](https://podcast.paiml.com)
 * [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
+* [Flask-CDK-Lambda-AWS](https://github.com/cdk-patterns/serverless/blob/main/the-lambda-trilogy/README.md)
