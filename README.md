@@ -86,14 +86,18 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 
 ### Episode 3:  AWS CP Part 1
 
+* [52 Weeks of AWS: Episode 3: AWS Cloud Practitioner Part 1](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-3-aws-cloud-practitioner-part-1)
+* [Watch episode 3 on O'Reilly](https://learning.oreilly.com/videos/52-weeks-of/122132021VIDEOPAIML/)
+
 ### Episode 4:  AWS CP Part 2
 
 * Benchmarking:  https://github.com/noahgift/benchmarking-aws
 * History of AWS (AWS Shareholder Letter 2020):  https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
 * Visual Studio AWS Tool
 * Github Codespaces vscode tutorial:  https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixB-CSharp-Tutorial.md
-* AWS CP Part 2
+* AWS CP Part 2:  Cover Global infra and security
 * [Listen to episode 4](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-4-aws-cloud-practitioner-part-2)
+* [Watch episode 4 on O'Reilly](https://learning.oreilly.com/videos/52-weeks-of/122132021VIDEOPAIML/)
 
 ### Potential Topics
 
