@@ -102,7 +102,7 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 ### Episode 5:  AWS CP Part 3
 
 * Writing a AWS S3 Bucket Lister application in Visual Studio 2022
-* AWS CP Part 3
+* AWS CP Part 3:  Network and Content Delivery, Compute Storage
 
 ### Potential Topics
 
