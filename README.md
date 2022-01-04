@@ -99,6 +99,11 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * [Listen to episode 4](https://52-weeks-of-cloud.simplecast.com/episodes/52-weeks-of-aws-episode-4-aws-cloud-practitioner-part-2)
 * [Watch episode 4 on O'Reilly](https://learning.oreilly.com/videos/52-weeks-of/122132021VIDEOPAIML/)
 
+### Episode 5:  AWS CP Part 3
+
+* Writing a AWS S3 Bucket Lister application in Visual Studio 2022
+* AWS CP Part 3
+
 ### Potential Topics
 
 #### IAC
