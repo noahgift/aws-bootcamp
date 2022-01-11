@@ -121,3 +121,4 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
 * [Flask-CDK-Lambda-AWS](https://github.com/cdk-patterns/serverless/blob/main/the-lambda-trilogy/README.md)
 * [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
+* [AWS-Swift](https://aws.amazon.com/blogs/developer/announcing-new-aws-sdk-for-swift-alpha-release/)
