@@ -104,7 +104,24 @@ Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
 * Writing a AWS S3 Bucket Lister application in Visual Studio 2022
 * AWS CP Part 3:  Network and Content Delivery, Compute Storage
 
+[Listen to Episode 5](https://podcast.paiml.com/episodes/52-weeks-of-aws-episode-5-cloud-practitioner-part3-network-and-content-delivery-compute-storage)
+
 ### Episode 6
+
+52 Weeks of AWS Episode 6: Cloud Practitioner Part4 Final. Walk through last portion of Cloud Practitioner certification
+[Listen to Episode 6](https://podcast.paiml.com/episodes/52-weeks-of-aws-episode-6-cloud-practitioner-part4-final)
+
+### Episode 7
+
+52 Weeks of AWS Episode 7: Developing with High Level Services 
+Learn to use high-level AWS services like AWS App Runner and AWS Lambda
+[Listen to Episode 7](https://podcast.paiml.com/episodes/52-weeks-of-aws-episode-7-developing-with-high-level-services)
+
+### Episode 8
+
+Diving into IAC
+
+
 
 ### Potential Topics
 
