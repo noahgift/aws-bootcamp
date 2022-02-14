@@ -132,6 +132,7 @@ Diving into IAC
 
 ## Global Resources
 
+* [AWS SA Pro Course O'Reilly](https://learning.oreilly.com/videos/aws-solutions-architect/021222022VIDEOPAIML/)
 * [Notes for O'Reilly Book:  C# on AWS I am writing](https://github.com/noahgift/DotNet-AWS)
 * [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
 * [AWS Python CDK Structure](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/)
