@@ -143,3 +143,5 @@ Diving into IAC
 * [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
 * [AWS-Swift](https://aws.amazon.com/blogs/developer/announcing-new-aws-sdk-for-swift-alpha-release/)
 * [AWS glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+* [AWS Certified Machine Learning 2023](https://learning.oreilly.com/videos/aws-certified-machine/10282022VIDEOPAIML/)
+
