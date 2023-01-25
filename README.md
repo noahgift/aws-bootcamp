@@ -132,6 +132,7 @@ Diving into IAC
 
 ## Global Resources
 
+* [52 Weeks of AWS-The Complete Series](https://learning.oreilly.com/videos/52-weeks-of/080232022VIDEOPAIML/)
 * [AWS SA Pro Course O'Reilly](https://learning.oreilly.com/videos/aws-solutions-architect/021222022VIDEOPAIML/)
 * [Notes for O'Reilly Book:  C# on AWS I am writing](https://github.com/noahgift/DotNet-AWS)
 * [Learn AWS Cloudshell](https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/)
