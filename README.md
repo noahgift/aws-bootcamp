@@ -57,6 +57,13 @@ A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certif
 #### Slides and Links
 #### Video Content
 
+### AWS Certified Security – Specialty certification
+
+
+
+
+
+
 ## 52 Weeks of AWS Podcast and Live Stream
 
 Livestream every Tuesday at 3pm ET on YouTube/Linkedin/Twitch.
