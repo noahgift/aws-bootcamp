@@ -1,6 +1,8 @@
 # zero-to-five-aws-bootcamp
 A Graduate Level Three to Five Week Bootcamp on AWS. Go from ZERO to FIVE Certifications.
 
+Free course on [Cloud Practitioner Certification](https://ds500.paiml.com/learn/course/kymo3/)
+
 ## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
 
 ### 🔥 Hot Course Offers:
